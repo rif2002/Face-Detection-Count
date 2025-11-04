@@ -40,7 +40,7 @@ Face-Detection-App/
 ├── haarcascade_frontalface_default.xml # Haar Cascade model file
 ├── bg1.png                             # Background image for UI
 └── README.md                           # Project documentation
-
+```
 ## Installations
 pip install opencv-python pygame numpy
 
