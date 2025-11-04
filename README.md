@@ -1,9 +1,8 @@
 # 🎯 Face Detection App  
 
 An interactive **Face Detection Application** built using **Python**, **OpenCV**, and **Pygame**.  
-This app captures live video from your webcam, detects faces in real-time, and displays the **number of faces detected** on the screen — all within a custom-designed Pygame interface.  
+This app captures live video from your webcam, detects faces in real-time, and displays the number of faces detected on the screen — all within a custom-designed Pygame interface.  
 
----
 
 ## Features  
 - ✅ Real-time face detection using OpenCV’s Haar Cascade Classifier  
@@ -12,7 +11,6 @@ This app captures live video from your webcam, detects faces in real-time, and d
 - ✅ Stylish UI with custom background and design elements  
 - ✅ Smooth integration of computer vision and interactive graphics  
 
----
 
 ## Tech Stack  
 - **Python 3.x**  
@@ -20,7 +18,6 @@ This app captures live video from your webcam, detects faces in real-time, and d
 - **NumPy** – for array and image data handling  
 - **Pygame** – for creating the graphical interface  
 
----
 
 ## 🚀 How It Works  
 
@@ -31,7 +28,6 @@ This app captures live video from your webcam, detects faces in real-time, and d
 5. The total number of detected faces is shown at the top of the window.  
 6. Pygame renders the video feed, text, and background image together.  
 
----
 
 ## 📂 Project Structure  
 
