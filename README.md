@@ -31,12 +31,15 @@ This app captures live video from your webcam, detects faces in real-time, and d
 
 ## 📂 Project Structure  
 
+## 📂 Project Structure
+
+```plaintext
 Face-Detection-App/
 │
-├── main.py # Main Python file
+├── main.py                            # Main Python file
 ├── haarcascade_frontalface_default.xml # Haar Cascade model file
-├── bg1.png # Background image for UI
-└── README.md # Project documentation
+├── bg1.png                             # Background image for UI
+└── README.md                           # Project documentation
 
 ## Installations
 pip install opencv-python pygame numpy
